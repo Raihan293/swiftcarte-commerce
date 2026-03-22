@@ -1,0 +1,13 @@
+.font-cos {
+  font-family: "Inter", sans-serif;
+  
+}
+
+.active{
+  background-color: saddlebrown;
+  color: blue;
+}
+
+.hide{
+  display: none;
+}
